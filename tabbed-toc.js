@@ -6,7 +6,7 @@
  */
 
 var tabbedTOC_defaults = {
-	blogUrl: "http://www.dte.web.id", // Blog URL
+	blogUrl: "https://aguzrybudy.blogspot.com", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
